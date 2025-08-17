@@ -1,8 +1,8 @@
-<img src="scrreens/0.png">
+<img src="screens/0.png">
 <hr/>
-<img src="scrreens/1.png">
+<img src="screens/1.png">
 <hr/>
-<img src="scrreens/2.png">
+<img src="screens/2.png">
 <hr/>
-<img src="scrreens/3.png">
+<img src="screens/3.png">
 <hr/>
